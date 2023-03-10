@@ -5,7 +5,8 @@ theme: PaperMod
 
 params:
     env: production
-    description: "Theme PaperMod1 - https://github.com/adityatelange/hugo-PaperMod1"
+    title: "Домашняя страница Груши"
+    description: "Обо мне и моих проектах"
     author:
 
     defaultTheme: auto
