@@ -1,0 +1,35 @@
+baseURL: https://mastergroosha.github.io/
+languageCode: ru-RU
+title: Груша 🍐
+theme: PaperMod
+
+params:
+    env: production
+    description: "Theme PaperMod1 - https://github.com/adityatelange/hugo-PaperMod1"
+    author:
+
+    defaultTheme: auto
+
+    mainSections:
+        - posts
+
+    profileMode:
+        enabled: false
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/MasterGroosha"
+        - name: Telegram
+          url: "https://t.me/Groosha"
+
+    homeInfoParams:
+        Title: "Добро пожаловать!"
+        Content: |
+          Меня зовут Александр, хотя многие меня знают под псевдонимом **Груша** (Groosha).
+          
+          Ниже вы можете ознакомиться с моими проектами и страницами.
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
