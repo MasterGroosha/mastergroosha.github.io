@@ -1,9 +1,10 @@
 ---
-title: Книги по разработке Telegram-ботов
-weight: 1
+title: Материалы по разработке Telegram-ботов
+weight: 2
 ---
 
-TL;DR: https://mastergroosha.github.io/aiogram-3-guide/
+TL;DR: [Актуальный платный курс](https://stepik.org/a/153850?utm_source=groosha_github&utm_medium=web&utm_campaign=g) 
+| [Актуальная бесплатная книга](https://mastergroosha.github.io/aiogram-3-guide/)
 
 ### 2015
 
@@ -22,3 +23,9 @@ TL;DR: https://mastergroosha.github.io/aiogram-3-guide/
 
 В 2022 году, на фоне предстоящего выхода крупного релиза **aiogram 3.x**, я ещё раз переписал книгу под новую версию 
 фреймворка. Прочитать её можно [по этой ссылке](https://mastergroosha.github.io/aiogram-3-guide).
+
+### 2024
+
+Со временем стало понятно, что вокруг ботов можно построить целое архитектурное решение. В итоге 
+получился целый [платный курс на Stepik](https://stepik.org/a/153850?utm_source=groosha_github&utm_medium=web&utm_campaign=g), 
+где я выступаю в качестве соавтора.
