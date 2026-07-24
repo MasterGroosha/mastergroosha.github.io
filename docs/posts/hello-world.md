@@ -3,8 +3,6 @@ date: 2026-07-25
 slug: hello-world
 authors:
   - groosha
-categories:
-  - Hello
 ---
 
 # Hello world!
