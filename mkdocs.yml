@@ -1,0 +1,30 @@
+site_name: Groosha's Blog
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: false
+      archive_name: Архив
+      categories_name: Теги
+
+nav:
+  - 'Обо мне': about.md
+  - index.md
+  - 'Тест': test.md

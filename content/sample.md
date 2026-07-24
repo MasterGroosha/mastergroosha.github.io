@@ -1,5 +1,0 @@
----
-title: Sample
----
-
-Sample Page
