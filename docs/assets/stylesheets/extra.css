@@ -1,0 +1,13 @@
+.md-header .md-logo {
+  margin: 0;
+  padding: 0;
+}
+
+.md-header .md-logo img {
+  height: 2.4rem;
+  width: auto;
+}
+
+.md-header__title {
+  margin-left: 0.4rem;
+}

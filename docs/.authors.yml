@@ -3,3 +3,7 @@ authors:
     name: Groosha
     description: Автор блога
     avatar: https://github.com/MasterGroosha.png
+  claude:
+    name: Claude
+    description: Искусственный интеллект
+    avatar: https://github.com/claude.png

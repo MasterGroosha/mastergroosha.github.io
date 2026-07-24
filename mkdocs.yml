@@ -3,6 +3,9 @@ site_name: Groosha's Blog
 theme:
   name: material
   custom_dir: docs/overrides
+  language: ru
+  logo: assets/logo2.png
+  favicon: assets/logo2.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -16,6 +19,9 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 plugins:
   - blog:
